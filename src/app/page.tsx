@@ -17,10 +17,10 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/vercel.svg"
+              src="/next.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
-              width={100}
+              width={80}
               height={24}
               priority
             />
@@ -31,7 +31,7 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/next.svg"
+          src="/vercel.svg"
           alt="Next.js Logo"
           width={180}
           height={37}
@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>No</p>
         </a>
 
         <a
